@@ -45,18 +45,26 @@ xxx: http://bafybeigxdvsjzdktpfi6ni67w4nxtf6babux6ms6z2fdf4xcuvvzscs6si.ipfs.loc
 # Questions @{50€ informal donation}
 - Should some kind of crypto layer network infra-structure be financed by "public funds"?
 - Any effort being made regarding public funding in state-of-the-art cryptography R&D?
+- should 'keywords' be accessed via "@" and take precedence to "public keys" in "PK_NODES" {#exoteric}
+
 
 # Good Online Resources {50€}
 
 # Tools
 - markdown_online_preview:
-    -   [hugodias/facebook-post-preview: Preview how a link will be rendered on facebook](https://github.com/hugodias/facebook-post-preview)
+    - [hugodias/facebook-post-preview: Preview how a link will be rendered on facebook](https://github.com/hugodias/facebook-post-preview)
 - yaml_online_preview
 
 
 # @proposal
 
 
+# start_1 {@markdown.header.encoder}
+## thoughts
+- computations: {#todo define #ibis}  
+    * ideas
+        * identified as 'keywords' also encoded via "@"
+        * should "*" reset|set_base for headings hierarchy?
 
 
 # Definitios
@@ -78,7 +86,7 @@ xxx: http://bafybeigxdvsjzdktpfi6ni67w4nxtf6babux6ms6z2fdf4xcuvvzscs6si.ipfs.loc
 - "computation layer": #dapp_dsl_Ethereum_crypto@some_output_key
 - "Chain-code": #dapp_dsl_crypto_hyperledger
 - "markdown normalization":...
-- "
+- "informal donations": anytime there's proof-of-intent-in-context token
 
 ============================================================================
 
